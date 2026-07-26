@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0183-customers-who-never-order](https://github.com/pranavpisal90-code/DSA/tree/master/0183-customers-who-never-order) |
 | [0511-game-play-analysis-i](https://github.com/pranavpisal90-code/DSA/tree/master/0511-game-play-analysis-i) |
+| [0584-find-customer-referee](https://github.com/pranavpisal90-code/DSA/tree/master/0584-find-customer-referee) |
 ## Linked List
 |  |
 | ------- |
