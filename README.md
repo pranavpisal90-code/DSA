@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pranavpisal90-code/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/pranavpisal90-code/DSA/tree/master/0066-plus-one) |
+| [0219-contains-duplicate-ii](https://github.com/pranavpisal90-code/DSA/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/pranavpisal90-code/DSA/tree/master/0066-plus-one) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/pranavpisal90-code/DSA/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/pranavpisal90-code/DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
