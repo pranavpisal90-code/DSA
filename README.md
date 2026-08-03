@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pranavpisal90-code/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/pranavpisal90-code/DSA/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/pranavpisal90-code/DSA/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/pranavpisal90-code/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0877-stone-game](https://github.com/pranavpisal90-code/DSA/tree/master/0877-stone-game) |
 ## Binary Search
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/pranavpisal90-code/DSA/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/pranavpisal90-code/DSA/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/pranavpisal90-code/DSA/tree/master/0877-stone-game) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/pranavpisal90-code/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
