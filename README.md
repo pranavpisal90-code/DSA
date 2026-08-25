@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pranavpisal90-code/DSA/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pranavpisal90-code/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/pranavpisal90-code/DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/pranavpisal90-code/DSA/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pranavpisal90-code/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/pranavpisal90-code/DSA/tree/master/0088-merge-sorted-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pranavpisal90-code/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/pranavpisal90-code/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/pranavpisal90-code/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pranavpisal90-code/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/pranavpisal90-code/DSA/tree/master/0242-valid-anagram) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/pranavpisal90-code/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/pranavpisal90-code/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/pranavpisal90-code/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranavpisal90-code/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/pranavpisal90-code/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/pranavpisal90-code/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pranavpisal90-code/DSA/tree/master/0344-reverse-string) |
 ## Divide and Conquer
