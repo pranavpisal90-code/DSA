@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/pranavpisal90-code/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pranavpisal90-code/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pranavpisal90-code/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/pranavpisal90-code/DSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/pranavpisal90-code/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0877-stone-game](https://github.com/pranavpisal90-code/DSA/tree/master/0877-stone-game) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pranavpisal90-code/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pranavpisal90-code/DSA/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/pranavpisal90-code/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
