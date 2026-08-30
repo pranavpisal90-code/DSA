@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pranavpisal90-code/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/pranavpisal90-code/DSA/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pranavpisal90-code/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/pranavpisal90-code/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/pranavpisal90-code/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/pranavpisal90-code/DSA/tree/master/0242-valid-anagram) |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/pranavpisal90-code/DSA/tree/master/0238-product-of-array-except-self) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pranavpisal90-code/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
