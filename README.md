@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/pranavpisal90-code/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0877-stone-game](https://github.com/pranavpisal90-code/DSA/tree/master/0877-stone-game) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pranavpisal90-code/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pranavpisal90-code/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pranavpisal90-code/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/pranavpisal90-code/DSA/tree/master/0347-top-k-frequent-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pranavpisal90-code/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pranavpisal90-code/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sliding Window
 |  |
 | ------- |
@@ -142,4 +144,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pranavpisal90-code/DSA/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pranavpisal90-code/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pranavpisal90-code/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pranavpisal90-code/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
