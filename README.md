@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/pranavpisal90-code/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/pranavpisal90-code/DSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/pranavpisal90-code/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/pranavpisal90-code/DSA/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/pranavpisal90-code/DSA/tree/master/0877-stone-game) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pranavpisal90-code/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pranavpisal90-code/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pranavpisal90-code/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0704-binary-search](https://github.com/pranavpisal90-code/DSA/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
