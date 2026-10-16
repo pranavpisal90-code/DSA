@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/pranavpisal90-code/DSA/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/pranavpisal90-code/DSA/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pranavpisal90-code/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0877-stone-game](https://github.com/pranavpisal90-code/DSA/tree/master/0877-stone-game) |
