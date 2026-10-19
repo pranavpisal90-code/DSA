@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/pranavpisal90-code/DSA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/pranavpisal90-code/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/pranavpisal90-code/DSA/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/pranavpisal90-code/DSA/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/pranavpisal90-code/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/pranavpisal90-code/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/pranavpisal90-code/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0567-permutation-in-string](https://github.com/pranavpisal90-code/DSA/tree/master/0567-permutation-in-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pranavpisal90-code/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pranavpisal90-code/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sliding Window
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranavpisal90-code/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/pranavpisal90-code/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/pranavpisal90-code/DSA/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/pranavpisal90-code/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/pranavpisal90-code/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pranavpisal90-code/DSA/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/pranavpisal90-code/DSA/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
